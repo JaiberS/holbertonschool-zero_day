@@ -1,4 +1,6 @@
-What is the command to quit Emacs?
+What is the command to paste?
+
+
 
 
 
