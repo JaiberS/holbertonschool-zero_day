@@ -1,4 +1,7 @@
-How do you move the cursor to line 32?
+
+How do you delete the current and previous line at the same time?
+
+
 
 
 
